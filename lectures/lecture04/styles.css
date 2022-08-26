@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #FDFFFC;
+}
+header {
+  background-color: lightcoral;  
+  text-indent: 35px;
+}
+h1 {
+    font-size: 50px;
+}
+header>p {
+    font-size: 25px;
+}
+main section {
+    /* display:inline-flex */
+    display:inline-block
+}
+section {
+    padding:10px;
+    border: solid 20px #2EC4B6;
+}
+
+/* Your code here */
